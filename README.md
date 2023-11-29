@@ -1,6 +1,6 @@
 
 
-# Oi, me chamo [Patrick Rodrigues] 👋
+# Oi, me chamo Patrick Rodrigues 👋
 
 ### Sobre mim
 
