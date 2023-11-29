@@ -8,7 +8,7 @@
 
 🎓 Eu estudo Analise e desenvolvimento de Sistemas EAD | Desenvolvimento Web Front e Back end (Senac tech).
 
-👩‍💻 Atualmente eu estou tentando entrar no mercado.
+👩‍💻 Atualmente estou buscando minha primeira oportunidade de trabalho.
 
 ✒️ Eu gosto de no meu tempo livre Treinar Jiu-Jitsu.
 
