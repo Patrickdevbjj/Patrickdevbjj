@@ -37,3 +37,4 @@
   <a href="https://www.linkedin.com/in/patrick-rodriguesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+![Github Status](https://github-readme-stats.vercel.app/api?username=Patrickdevbjj&show_icons=true&theme=dracula)
